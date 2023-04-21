@@ -12,12 +12,7 @@ sum+=va_arg(arg, int);
 
 va_end(args);
 
-if(n==0){
-return 0;
-
-}else{
-
 return sum;
-}
+
 
 }
