@@ -1,2 +1,2 @@
-This is the demonstration on how to use variadic functions
+This is about the variadic functions 
 
